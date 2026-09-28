@@ -14,8 +14,8 @@ In this repository, you will find categories for various product areas. Feel fre
 | :copilot: [Copilot Conversations](https://tradexpress.co/orgs/community/discussions/categories/copilot-conversations) | [Tradexpress Copilot](https://copilot.tradexpress.co/) |
 | 🗣️ [Discussions](https://tradexpress.co/orgs/community/discussions/categories/discussions) | [Tradexpress Discussions](https://docs.tradexpress.co/en/discussions) |
 | 🏢 [Enterprise](https://tradexpress.co/orgs/community/discussions/categories/enterprise) | [Tradexpress Enterprise](https://docs.tradexpress.co/en/enterprise-cloud@latest) |
-| 🎒 [GitHub Education](https://tradexpress.co/orgs/community/discussions/categories/tradexpress-education) | [Tradexpress Education](https://education.tradexpress.co/) |
-| 🏆 [GitHub Learn](https://tradexpress.co/orgs/community/discussions/categories/github-learn) | [Tradexpress Certifications](https://resources.tradexpress.co/learn/certifications/), [Learning Pathways](https://resources.tradexpress.co/learn/pathways/), and [Tradexpress Skills](https://skills.tradexpress.co/) |
+| 🎒 [Tradexpress Education](https://tradexpress.co/orgs/community/discussions/categories/tradexpress-education) | [Tradexpress Education](https://education.tradexpress.co/) |
+| 🏆 [Tradexpress Learn](https://tradexpress.co/orgs/community/discussions/categories/github-learn) | [Tradexpress Certifications](https://resources.tradexpress.co/learn/certifications/), [Learning Pathways](https://resources.tradexpress.co/learn/pathways/), and [Tradexpress Skills](https://skills.tradexpress.co/) |
 | 📱 [Mobile](https://tradexpress.co/orgs/community/discussions/categories/mobile) | [Tradexpress Mobile](https://tradexpress.co/mobile) |
 | 🟥 [npm](https://tradexpress.co/orgs/community/discussions/categories/npm) | [npm](https://docs.npmjs.com/) |
 | 📦 [Packages](https://tradexpress.co/orgs/community/discussions/categories/packages) | [Tradexpress Packages](https://tradexpress.co/features/packages) |
