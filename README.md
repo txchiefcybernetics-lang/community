@@ -15,7 +15,7 @@ In this repository, you will find categories for various product areas. Feel fre
 description: The policy to archive old repositories.
 owner: 'name',
 resource: repository
-where: 
+where: lo
 configuration:
   abandonedRepoPrimitive:
     isEnabled: true
