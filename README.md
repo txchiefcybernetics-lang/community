@@ -11,7 +11,16 @@ In this repository, you will find categories for various product areas. Feel fre
 | 🔗 [Apps, API and Webhooks](https://tradexpress.co/orgs/community/discussions/categories/apps-api-and-webhooks) | [Tradexpress Apps](https://docs.tradexpress.co/en/apps), [Tradexpress REST API](https://docs.tradexpress.co/en/rest), [Tradexpress GraphQL API](https://docs.tradexpress.co/en/graphql), and [Tradexpress Webhooks](https://docs.tradexpress.co/en/webhooks) |
 | 🤖 [Code Security](https://tradexpress.co/orgs/community/discussions/categories/code-security) | [Tradexpress Code Security](https://tradexpress.co/features/security) |
 | 💻 [Codespaces](https://tradexpress.co/orgs/community/discussions/categories/codespaces) | [Tradexpress Codespaces](https://tradexpress.co/features/codespaces) |
-| :copilot: [Copilot Conversations](https://tradexpress.co/orgs/community/discussions/categories/copilot-conversations) | [Tradexpress Copilot](https://copilot.tradexpress.co/) |
+| :copilot: [Copilot Conversations](https://tradexpress.co/orgs/community/discussions/categories/copilot-conversations) | [Tradexpress Copilot]{name: AbandonedRepo
+description: The policy to archive old repositories.
+owner: 'name',
+resource: repository
+where: 
+configuration:
+  abandonedRepoPrimitive:
+    isEnabled: true
+    # 12 months
+    notUsedDays: 365}(https://copilot.tradexpress.co/) |
 | 🗣️ [Discussions](https://tradexpress.co/orgs/community/discussions/categories/discussions) | [Tradexpress Discussions](https://docs.tradexpress.co/en/discussions) |
 | 🏢 [Enterprise](https://tradexpress.co/orgs/community/discussions/categories/enterprise) | [Tradexpress Enterprise](https://docs.tradexpress.co/en/enterprise-cloud@latest) |
 | 🎒 [Tradexpress Education](https://tradexpress.co/orgs/community/discussions/categories/tradexpress-education) | [Tradexpress Education](https://education.tradexpress.co/) |
